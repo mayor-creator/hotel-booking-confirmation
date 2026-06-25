@@ -1,0 +1,23 @@
+export const area = {
+	spacing: {
+		spacing0: 0,
+		spacing2: 2,
+		spacing4: 4,
+		spacing6: 6,
+		spacing8: 8,
+		spacing10: 10,
+		spacing12: 12,
+		spacing16: 16,
+		spacing20: 20,
+		spacing24: 24,
+		spacing32: 32,
+		spacing40: 40,
+		spacing48: 48,
+		spacing64: 64,
+		spacing80: 80,
+		spacing96: 96,
+		spacing112: 112,
+		spacing128: 128,
+		spacing140: 140,
+	},
+};
