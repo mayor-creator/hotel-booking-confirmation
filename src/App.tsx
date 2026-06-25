@@ -1,3 +1,10 @@
+import { GlobalStyle } from "./theme/typography";
+
 export default function App() {
-	return <div>Hello World</div>;
+	return (
+		<>
+			<GlobalStyle />
+			<p>Hello World</p>
+		</>
+	);
 }
